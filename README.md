@@ -1,4 +1,4 @@
-# EvenNewbieImTheHero
+# Even newbie I'm The Pro
 
 how to use yuminstall.sh?
 

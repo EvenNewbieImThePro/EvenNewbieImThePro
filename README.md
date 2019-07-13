@@ -7,6 +7,6 @@
 
 
 
-what does this script do? 
+<b>what does this script do?</b> 
 
 A. install mariadb package through this script  

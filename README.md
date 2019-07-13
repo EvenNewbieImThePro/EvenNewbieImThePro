@@ -6,5 +6,4 @@
   2. type this command on shell  => ./yuminstall.sh
 <br><br><br>
 <b>what does this script do?</b> 
-
- <&nbsp><&nbsp><&nbsp>=> install mariadb package through this script  
+=> install mariadb package through this script  

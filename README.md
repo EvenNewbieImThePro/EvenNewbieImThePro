@@ -8,4 +8,5 @@
 
 <b>what does this script do?</b>
 
-=> install mariadb package through this script  
+=> install some package through this script. 
+you can see in code
